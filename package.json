@@ -1,6 +1,6 @@
 {
   "name": "@dev0ph3r/netlify-plugin-cloudflare",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cloudflare Cache Purge Plugin for Netlify",
   "author": "Dev0ph3r <177775724+Dev0ph3r@users.noreply.github.com>",
   "license": "MIT",

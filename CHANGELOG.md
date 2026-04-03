@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Dev0ph3r/netlify-plugin-cloudflare/compare/v1.0.1...v1.0.2) (2026-04-03)
+
+
+### Bug Fixes
+
+* fix ci ([cc508fe](https://github.com/Dev0ph3r/netlify-plugin-cloudflare/commit/cc508fee0aa14b67498f56615d8497791333b076))
+
 ## [1.0.1](https://github.com/Dev0ph3r/netlify-plugin-cloudflare/compare/v1.0.0...v1.0.1) (2026-04-03)
 
 
